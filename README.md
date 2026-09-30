@@ -2,7 +2,7 @@
 
 A timed, multiple-choice JavaScript quiz with a high-score board.
 
-**Live demo:** https://archils.github.io/code_quiz/
+**Live demo:** https://archo2.github.io/code_quiz/
 
 ## Features
 
@@ -17,7 +17,7 @@ HTML · CSS · JavaScript (Web APIs: DOM, timers, localStorage)
 
 ## How to Use
 
-1. Open the [live demo](https://archils.github.io/code_quiz/) or open `index.html` in your browser.
+1. Open the [live demo](https://archo2.github.io/code_quiz/) or open `index.html` in your browser.
 2. Click **Start Quiz** and answer each question before time runs out.
 3. Enter your initials to save your score.
 
@@ -28,5 +28,5 @@ Built as a challenge for the University of Washington Full Stack Coding Bootcamp
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
